@@ -9,7 +9,7 @@ src: local('Menlo Regular'), url('Menlo-Regular.woff') format('woff');
 
     p[type='text'] 
     { 
-    				font-size: 24px; 
+    				font-size: 40px; 
     				background: #1B191F;
     				color: #FFFFFF;
     				font-family: 'Menlo Regular', monospace;
